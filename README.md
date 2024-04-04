@@ -16,7 +16,7 @@ Currently diving into Java, Spring Boot, and AngularJS.
 ## 📫 How to Reach Me
 
 - Email: purveshpawar13@gmail.com
-- LinkedIn: Purvesh Pawar
+- LinkedIn: https://www.linkedin.com/in/purvesh-pawar-796361129?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Portfolio: [Your Portfolio Website]
 
 ## 🌱 I'm Looking For
