@@ -1,31 +1,53 @@
-#  Hello, I'm Purvesh 👋
+# 👋 Hello, I'm Purvesh
 
-I'm a Front-End Developer who loves to transform designs into interactive web experiences. My knack for problem-solving and user experience drives me to constantly learn and innovate. Ready to bring my creativity and technical skills to a dynamic team.
+I'm a **Full-Stack Web Developer** passionate about building responsive, dynamic, and scalable web applications. I love transforming creative ideas into functional digital solutions using modern web technologies.
 
-## 🛠️ Skills
+---
 
-- HTML, CSS, JavaScript
-- Responsive Design
-- Git/Github
-- Performance Optimization
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- HTML, CSS, JavaScript  
+- Angular  
+- Bootstrap, Tailwind CSS  
+- Responsive Web Design  
+
+### 🔧 Backend
+- Java (Core & OOP)
+- Spring Boot  
+- Hibernate  
+- MySQL  
+
+### 🌐 Tools & Platforms
+- Git & GitHub  
+- VS Code, Eclipse  
+- Postman  
+- Chrome DevTools  
+
+---
 
 ## 📚 What I'm Learning
 
-Currently diving into Java, Spring Boot, and AngularJS.
+Currently enhancing my expertise in:
+- REST API development with Spring Boot  
+- Full-stack integration using Angular + Spring Boot  
+- Database optimization and query tuning in MySQL  
 
-## 📫 How to Reach Me
-
-- Email: purveshpawar13@gmail.com
-- LinkedIn: https://www.linkedin.com/in/purvesh-pawar-796361129?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Portfolio: [Your Portfolio Website]
+---
 
 ## 🌱 I'm Looking For
 
-I'm currently seeking opportunities as a Front-End Developer where I can contribute my skills and learn from industry professionals.
+An opportunity as a **Full-Stack or Front-End Developer**, where I can apply my skills, grow with a strong team, and contribute to impactful projects.
 
-Thank you for visiting my profile. Feel free to connect with me or check out
+---
 
-<!---
-Purvesh1329/Purvesh1329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 How to Reach Me
+
+- 📧 Email: [purveshpawar13@gmail.com](mailto:purveshpawar13@gmail.com)  
+- 💼 LinkedIn: [Purvesh Pawar](https://www.linkedin.com/in/purvesh-pawar-796361129)  
+- 🌐 Portfolio: *[Add your live portfolio link here]*
+
+---
+
+Thanks for visiting my profile!  
+Feel free to connect, collaborate, or check out my projects.
